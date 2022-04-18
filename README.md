@@ -1,2 +1,9 @@
-# woodbury_thesis_plugin
-Rhino plugin (RHI) file for Woodbury University Thesis Project Spring 2022, "PROJECT NAME"
+# PROJECT NAME
+
+Body Text
+## Second level title
+150 word description
+## Intstallation instructions
+
+- **Bold Bullet point:** 
+- **Bold Bullet point:**
