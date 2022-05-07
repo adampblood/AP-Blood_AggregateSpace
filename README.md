@@ -8,6 +8,8 @@ The project was developed as a Rhino3D software plugin, written in Python. The w
 
 Because the user must first choose the resolution of the project, the density of space becomes the medium in which the entire architectural program will exist; It determines where space will aggregate, and it determines the resolution of the formal voxels that will express that space. Due to this process, the aggregated whole ultimately results in a genuine architecture of space.
 
+To experience Aggregate Space in VR: https://blood-aggregate-space.glitch.me
+
 ## Low Resolution Space in Architectural Design
 
 A Rhino software plugin (RHI) was developed for the project. It is procedurally written in Python and includes a series of modules that are called through a main script. The plugin operates by allowing users to first choose the dimensions and resolution of the voxel-grid that will divide a project's buildable space. A series of rules then dictate the distribution and configuration of spatial primitives throughout the grid. The newly developed spaces combine with any existing constraints to architectural program. Finally, block instances that are the same dimensions of a single voxel aggregate around the spaces to create architectural form.
